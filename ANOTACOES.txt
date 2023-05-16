@@ -1,0 +1,85 @@
+https://app.rocketseat.com.br/events/nlw-spacetime/ignite/aula-1
+
+
+
+.env       DATABASE_URL="file:./dev.db"
+
+
+backend
+
+
+extensões
+
+ESlint microsoft
+
+fluent Icons
+
+gitlens
+
+omni theme
+
+postCSS language support
+
+prisma
+
+symbols
+
+tailwindcss intellisense
+
+//////
+
+install nodejs
+
+/////
+
+npm init -y
+
+npm install typescript -D
+
+npm install @types/node -D
+
+npx tsc --init
+
+npm i tsx -D
+
+/////
+
+npm run dev
+
+npm i fastify
+
+npm install eslint -D
+
+/////
+
+npm install @rocketseat/eslint-config -D
+
+/////
+
+npm install prisma -D
+
+npx prisma init --datasource-provider SQLITE
+
+run prisma db pull
+
+run prisma generate
+
+////
+
+npx prisma migrate dev
+
+declara o nome pra migration
+
+////
+
+ver os dados do banco usando ferramentas do prisma
+
+npx prisma studio
+
+///
+
+install prisma client
+
+npm install @prisma/client
+
+///
